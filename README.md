@@ -234,3 +234,6 @@ This repository serves as the official landing page for SUMo. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SUMo today!**
+
+---
+**Last updated:** 2026-09-10 09:17:54 UTC

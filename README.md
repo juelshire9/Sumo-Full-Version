@@ -236,4 +236,4 @@ This repository serves as the official landing page for SUMo. The software is di
 **Get the most recent version of SUMo today!**
 
 ---
-**Last updated:** 2026-09-28 06:08:26 UTC
+**Last updated:** 2026-09-28 14:45:16 UTC
